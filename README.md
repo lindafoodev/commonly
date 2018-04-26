@@ -5,6 +5,7 @@
 </h1>
 
 <h4 align="center">Connecting you locally one small step at a time.</h4>
+<h4 align="center">https://sharingiscaring-app.herokuapp.com/</h4>
 
 <p align="center">
     <a href="#key-features">Key Features</a> •
